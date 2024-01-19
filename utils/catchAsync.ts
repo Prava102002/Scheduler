@@ -8,4 +8,6 @@ function catchAsync(fn: AsyncFunction) {
   };
 }
 
+
+
 export default catchAsync;

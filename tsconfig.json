@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "strict": true,
+    "esModuleInterop": true
+    },
+    "include": ["routes/**/*.tsx", "controller/**/*.ts", "model/**/*.ts"],
+    "exclude": ["node_modules"]
+  }
+  
